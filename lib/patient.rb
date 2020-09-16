@@ -20,7 +20,7 @@ class Patient
   end
   
   def doctors 
-    Doctor.all
+    binding.pry
   end 
   
   
